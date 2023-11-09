@@ -1,0 +1,4 @@
+name: ReactorPermissions
+version: '${project.version}'
+main: me.nuclearteam.reactorpermissions.ReactorPermissions
+load: STARTUP
