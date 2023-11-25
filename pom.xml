@@ -73,7 +73,12 @@
         <dependency>
             <groupId>me.NuclearTeam</groupId>
             <artifactId>nuclearlib</artifactId>
-            <version>0.1.7</version>
+            <version>0.1.13</version>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-server</artifactId>
+            <version>9.4.51.v20230217</version> <!-- Use the latest version available -->
         </dependency>
     </dependencies>
 </project>
