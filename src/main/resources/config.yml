@@ -1,0 +1,6 @@
+mongodb:
+  host: ""
+  port:
+  username: ""
+  password: ""
+  database: ""

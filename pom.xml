@@ -73,7 +73,7 @@
         <dependency>
             <groupId>me.NuclearTeam</groupId>
             <artifactId>nuclearlib</artifactId>
-            <version>0.1</version>
+            <version>0.1.7</version>
         </dependency>
     </dependencies>
 </project>
